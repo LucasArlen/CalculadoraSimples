@@ -1,5 +1,5 @@
 # CalculadoraSimples
-Um simples calculadora feita com Python usando Tkinter
+Uma simples calculadora feita com Python usando Tkinter
 
 ## Requisitos:
 - Tkinter
